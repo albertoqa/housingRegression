@@ -1,7 +1,7 @@
 housingRegression
 =================
 
-**Descripción del problema y base de datos analizada:**
+##**Descripción del problema y base de datos analizada:**
 
 * Boston Housing Data Set.
 * Características de la base de datos
@@ -41,10 +41,10 @@ housingRegression
 
 * Resultados obtenidos (media de las 10 iteraciones de la validación cruzada):
 |             | Error Medio Absoluto | Error Medio Cuadrático | R cuadrado |
-|-------------| 
-| SVR (linear) |
-| Decision Tree Regressor |
-| Gradient Boosting Tree Regressor |
+|-------------|---------|-----------|--------------------------------------|
+| SVR (linear) | a | b | c |
+| Decision Tree Regressor | a | b | c |
+| Gradient Boosting Tree Regressor | a | b | c |
 
 
 
