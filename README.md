@@ -37,3 +37,14 @@ housingRegression
   - Entrenamiento selectivo con las características mas idóneas.
   - Dependencia de algunas características con respecto al valor medio de las viviendas.
 
+**Comparación de las distintas técnicas:**
+
+* Resultados obtenidos (media de las 10 iteraciones de la validación cruzada):
+|             | Error Medio Absoluto | Error Medio Cuadrático | R cuadrado |
+|-------------| 
+| SVR (linear) |
+| Decision Tree Regressor |
+| Gradient Boosting Tree Regressor |
+
+
+
